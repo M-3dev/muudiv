@@ -1,0 +1,48 @@
+{"posts":{
+
+    "slider": [
+        {
+            "title": "",
+            "type": "Music",
+            "post_id": 1,
+            "image": ""
+        },
+        {
+            "title": "",
+            "type": "Music",
+            "post_id": 1,
+            "image": ""
+        }
+    ],
+
+    "best_of_the_week": [
+        {
+            "title": "برگرد (ریمیکس)",
+            "type": "Music",
+            "post_id": 1506,
+            "image": "https://navaradio.com/wp-content/uploads/2024/10/Kamran-Delan-Bargard-Remix-150x150.jpg"
+        },
+        {
+            "title": "بازنده",
+            "type": "Music",
+            "post_id": 1509,
+            "image": "https://navaradio.com/wp-content/uploads/2024/10/Roozbeh-Bemani-Bazandeh-150x150.jpg"
+        }
+    ],
+
+    "new_music": [],
+    "best_of_the_month": [
+        {
+            "title": "برگرد (ریمیکس)",
+            "type": "Music",
+            "post_id": 1506,
+            "image": "https://navaradio.com/wp-content/uploads/2024/10/Kamran-Delan-Bargard-Remix-150x150.jpg"
+        },
+        {
+            "title": "بازنده",
+            "type": "Music",
+            "post_id": 1509,
+            "image": "https://navaradio.com/wp-content/uploads/2024/10/Roozbeh-Bemani-Bazandeh-150x150.jpg"
+        }
+    ]
+}
